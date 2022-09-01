@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/scr**",
+                "${workspaceFolder}",
+                "B:/Data/Operations/Sub Infra/STCE/Internal Software/01_Compilers/MinGW/**",
+                "B:/Data/Operations/Sub Infra/STCE/Internal Software/01_Compilers/MinGW/include",
+                "B:/Data/Operations/Sub Infra/STCE/Internal Software/01_Compilers/MinGW/lib/gcc/mingw32/4.5.2/include",
+                "B:/Data/Operations/Sub Infra/STCE/Internal Software/01_Compilers/MinGW/bin/"                
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "\"B:\\Data\\Operations\\Sub Infra\\STCE\\Internal Software\\01_Compilers\\MinGW\\bin\\mingw-32gcc.exe\"",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
